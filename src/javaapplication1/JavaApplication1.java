@@ -18,6 +18,7 @@ public class JavaApplication1 {
         // TODO code application logic here
         System.out.println("Learning GITHUB");
         System.out.println("second commit");
+        System.out.println("Third commit");
     }
     
 }
